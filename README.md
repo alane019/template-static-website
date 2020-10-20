@@ -1,4 +1,4 @@
-# course-section-name
+# template-static-website
 
 ## Description 
 
@@ -17,7 +17,7 @@ The purpose of this repository is <**PURPOSE**>
   - [License](#license) 
 
 ## Examples
-Demo is viewable here: <https://alane019.github.io/**[COURSE-SECTION-NAME]**/>
+Demo is viewable here: <https://alane019.github.io/template-static-website/>
 
 ## Usage 
 To use contents of this repository, you must **[INSTRUCTIONS]**
